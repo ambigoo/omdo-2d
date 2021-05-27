@@ -1,8 +1,5 @@
 # Omdo 2D Requirement
 
-## 2D Omdo Sprite Requirement
-Disini saya menyebut sheet untuk kebutuhan gambar lebih dari 1.
-
 1. Brows : Left & Right (2 for each)
 	Untuk brows perlu sheet berisi 2 tiap sisi(kiri kanan).
 	1. Brows normal (biasa senang, semangat)
