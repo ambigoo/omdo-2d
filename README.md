@@ -11,44 +11,44 @@ Disini saya menyebut sheet untuk kebutuhan gambar lebih dari 1.
 2. Eye Left & Right (5 for each)
 	Bagian mata dengan eyelid menjadi 1, tidak seperti 3d, dimana mata dan eyelid dipisah.
 	1. Eye Normal
-		![normal.png]
+		![](normal.png)
 	2. Eye Squint
-		![eye_squint.png]
+		![](eye_squint.png)
 	3. Eye Close
 		1. Close-Normal
-			![eye_close_normal.png]()
+			![](eye_close_normal.png)
 		2. Close-Smile
-			![eye_close_smile.png]()
+			![](eye_close_smile.png)
 		3. Close-Scared
-			![eye_close_scared.png]()
+			![](eye_close_scared.png)
 3. Nose : 1
 	Hidung tidak beranimasi, cukup 1 saja.
 4. Mouth : 12
 	Berikut ini kebutuhan utama untuk mulut.
 	1. Normal
-		![normal.png]()
+		![](normal.png)
 	2. Smile
-		![smile.png]()
+		![](smile.png)
 	3. OpenLip
-		![open.png]()
+		![](open.png)
 	4. A
-		![A.png]()
+		![](A.png)
 	5. I
-		![I.png]()
+		![](I.png)
 	6. U
-		![U.png]()
+		![](U.png)
 	7. E
-		![E.png]()
+		![](E.png)
 	8. O
-		![O.png]()
+		![](O.png)
 	9. FV
-		![FV.png]()
+		![](FV.png)
 	10. Oh
-		![Oh.png]()
+		![](Oh.png)
 	11. LNDTh
-		![LNDTh.png]()
+		![](LNDTh.png)
 	12. CDSKZ
-		![CDSKZ.png]()
+		![](CDSKZ.png)
 
 6. Hair : 3
 	- Untuk rambut ada tiga, sesuai karakter omdo, yang nantinya akan beranimasi mengikuti pergerak dari badan.
