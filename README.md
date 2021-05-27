@@ -23,8 +23,8 @@
 4. Mouth : 12
 	Berikut ini kebutuhan utama untuk mulut.
 	1. Normal
-		![](normal.png)
-	2. Smile
+	    ![](normal.png)
+	3. Smile
 		![](smile.png)
 	3. OpenLip
 		![](open.png)
@@ -37,7 +37,7 @@
 	7. E
 		![](E.png)
 	8. O
-		![](O.png)
+        ![](O.png)
 	9. FV
 		![](FV.png)
 	10. Oh
