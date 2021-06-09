@@ -10,42 +10,42 @@
 	1. Eye Normal
 		<br/><br/> ![](normal.png)
 	2. Eye Squint
-		![](eye_squint.png)
+		<br/><br/> ![](eye_squint.png)
 	3. Eye Close
 		1. Close-Normal
-			![](eye_close_normal.png)
+			<br/><br/> ![](eye_close_normal.png)
 		2. Close-Smile
-			![](eye_close_smile.png)
+			<br/><br/> ![](eye_close_smile.png)
 		3. Close-Scared
-			![](eye_close_scared.png)
+			<br/><br/> ![](eye_close_scared.png)
 3. Nose : 1
 	Hidung tidak beranimasi, cukup 1 saja.
 4. Mouth : 12
 	Berikut ini kebutuhan utama untuk mulut.
 	1. Normal
-	    ![](normal.png)
+	    <br/><br/> ![](normal.png)
 	3. Smile
-		![](smile.png)
+		<br/><br/> ![](smile.png)
 	3. OpenLip
-		![](open.png)
+		<br/><br/> ![](open.png)
 	4. A
-		![](A.png)
+		<br/><br/> ![](A.png)
 	5. I
-		![](I.png)
+		<br/><br/> ![](I.png)
 	6. U
-		![](U.png)
+		<br/><br/> ![](U.png)
 	7. E
-		![](E.png)
+		<br/><br/> ![](E.png)
 	8. O
-        ![](O.png)
+        	<br/><br/> ![](O.png)
 	9. FV
-		![](FV.png)
+		<br/><br/> ![](FV.png)
 	10. Oh
-		![](Oh.png)
+		<br/><br/> ![](Oh.png)
 	11. LNDTh
-		![](LNDTh.png)
+		<br/><br/> ![](LNDTh.png)
 	12. CDSKZ
-		![](CDSKZ.png)
+		<br/><br/> ![](CDSKZ.png)
 
 6. Hair : 3
 	- Untuk rambut ada tiga, sesuai karakter omdo, yang nantinya akan beranimasi mengikuti pergerak dari badan.
