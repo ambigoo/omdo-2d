@@ -8,7 +8,7 @@
 2. Eye Left & Right (5 for each)
 	Bagian mata dengan eyelid menjadi 1, tidak seperti 3d, dimana mata dan eyelid dipisah.
 	1. Eye Normal
-		![](normal.png)
+		<br/><br/> ![](normal.png)
 	2. Eye Squint
 		![](eye_squint.png)
 	3. Eye Close
