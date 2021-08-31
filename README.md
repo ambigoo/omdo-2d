@@ -5,6 +5,12 @@
 	1. Brows normal (biasa senang, semangat)
 	2. Brows mengkerut (sedih, bingung, ngantuk)
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 2. Eye Left & Right (5 for each)
 	Bagian mata dengan eyelid menjadi 1, tidak seperti 3d, dimana mata dan eyelid dipisah.
 	1. Eye Normal
